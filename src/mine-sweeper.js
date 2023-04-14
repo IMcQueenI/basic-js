@@ -35,7 +35,7 @@ function minesweeper(matrix) {
 		  [0, 0, 0], 
 		  [0, 0, 0] 
 		] 
-	  } 
+	  };
 }
 
 module.exports = {
