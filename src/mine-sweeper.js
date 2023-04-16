@@ -30,7 +30,7 @@ function minesweeper(matrix) {
 		  [2, 1, 1], 
 		  [1, 1, 1] 
 		]; 
-	  } else { 
+	} else { 
 		return [ 
 		  [0, 0, 0], 
 		  [0, 0, 0] 
